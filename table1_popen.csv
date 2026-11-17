@@ -1,0 +1,8 @@
+condition,phi,HcyT,D_serine,QUIN,Glu,Popen,fold_vs_healthy
+Healthy,0.1,2,0.15,0.2,1.0,0.084480,1.0000
+Inflammation,0.7,2,1.2,4,1.5,0.184145,2.1797
+MTHF_deficiency,0.1,25,0.15,0.2,1.0,0.057856,0.6849
+Convergence,0.7,25,1.2,4,1.5,0.222747,2.6367
+
+additive_prediction,,,,,,0.157522,1.8646
+supra_additive_excess,,,,,,0.065225,+41.41%

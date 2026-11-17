@@ -1,0 +1,5 @@
+condition,P_det,MC_mean,MC_sd,analytic_sd,CV_percent
+Healthy,0.0845,0.0837,0.0238,0.0242,28.4
+Inflammation,0.1841,0.1842,0.0333,0.0337,18.1
+MTHF_deficiency,0.0579,0.0570,0.0198,0.0203,34.7
+Convergence,0.2227,0.2216,0.0357,0.0361,16.1

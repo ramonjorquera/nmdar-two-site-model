@@ -1,0 +1,8 @@
+region,associated_disorder_Table4,D-serine / serine-racemase,Cx43 astroglial hemichannel,kynurenine / QUIN capacity,principal glutamatergic afferent,STP phenotype,U (Pr),tau_rec_ms,tau_fac_ms,PPR_model,PPR_literature,predicted convergence / vulnerability,key refs
+Hippocampus CA1,"Depression, Trisomy 21, MTX",High,High,Moderate (inducible),Schaffer coll. (CA3->CA1),facilitates,0.15,150,250,1.51,1.5-2.0,HIGH - facilitating input accumulates tonic,Dobrunz&Stevens1997; Duarte2024
+mPFC (L2/3),"Schizophrenia, Depression",High,High,Moderate,recurrent / associational,facilitates,0.18,150,300,1.48,>1,HIGH - recurrent facilitation,eLife2024(102923); Wang2006
+Amygdala LA (cortical in),"Stress/anxiety, Depression",Mod-High,High,Moderate,cortical input,facilitates,0.3,150,250,1.23,1.22 (Guo),HIGH - cortical facilitating,Guo2017 (slice)
+Amygdala LA (thalamic in),"Stress/anxiety, Depression",Mod-High,High,Moderate,thalamic input,facilit.(slice),0.38,150,250,1.1,1.10 slice / <1 vivo,HIGH - slice facilitating,Guo2017; Sigurdsson2010(vivo)
+Dorsal striatum,(HD-like QUIN vuln.),Moderate,High,High (QUIN lesions striatum),corticostriatal ->MSN,depresses(mixed),0.42,406,80,0.82,~0.8-1.0,MODERATE - high QUIN but depressing input,Ding2008; Beal1986(QUIN)
+Visual/occipital ctx V1,Migraine with aura,High,High,Moderate,thalamocortical,depresses,0.42,480,5,0.62,~0.63,MODERATE - depressing feedforward,Boudreau&Ferster2005
+Cerebellum (CONTRAST),(model predicts LOW),Low (glycine co-agonist),Present,Low,parallel fiber->Purkinje,facilitates (but glycine),0.05,130,530,1.9,>1,LOW - D-serine axis absent (glycine gates),Wolosker&Balu2020; Schell1997

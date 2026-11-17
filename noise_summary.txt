@@ -1,0 +1,6 @@
+
+STOCHASTIC CHANNEL-NOISE LAYER  (tau_c=50.0 ms, seed=20261109)
+deterministic ambient P_open = ensemble mean: Healthy 0.084, Inflammation 0.184, MTHF_deficiency 0.058, Convergence 0.223
+Convergence-vs-Healthy d' (T=200 ms): N=1 -> 0.64, N=10 -> 2.01, N=50 -> 4.50, N=100 -> 6.36, N=500 -> 14.22
+  separable (d'>=1) from N=3 channels; well-separated (d'>=2) from N=10 (200 ms window).
+wrote: noise_discriminability.csv, noise_condition_meanSD.csv, noise_meanvar_check.csv, noise_traces.csv

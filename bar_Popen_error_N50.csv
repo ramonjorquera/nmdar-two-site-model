@@ -1,0 +1,5 @@
+condition,P_deterministic,MC_mean_check,SD_window100ms_N50,SEM_window100ms_10blocks,SD_instant_N50,analytic_SD_window100ms
+Healthy,0.0845,0.0847,0.0298,0.0094,0.0394,0.0296
+Inflammation,0.1841,0.1832,0.0417,0.0132,0.0550,0.0413
+MTHF_deficiency,0.0579,0.0579,0.0250,0.0079,0.0332,0.0249
+Convergence,0.2227,0.2220,0.0442,0.0140,0.0589,0.0443

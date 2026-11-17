@@ -1,0 +1,7 @@
+region,PPR_model,PPR_lit,lit_low,lit_high,lit_note
+Hippocampus CA1,1.510,1.750,1.500,2.000,range 1.5-2.0 (midpoint)
+mPFC L2/3,1.480,1.300,1.000,1.500,reported >1 (weakly constrained)
+Amygdala LA cortical,1.230,1.220,1.220,1.220,point (Guo2017 slice)
+Amygdala LA thalamic,1.100,1.100,1.100,1.100,point (Guo2017 slice)
+Dorsal striatum,0.820,0.900,0.800,1.000,range 0.8-1.0 (midpoint)
+Visual cortex V1,0.620,0.630,0.630,0.630,point
